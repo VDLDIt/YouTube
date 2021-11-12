@@ -63,8 +63,8 @@
 				75212FFC273D6E9100A5D2A6 /* HomeController.swift */,
 				754480FB273D7C1C00EF777F /* VideoCell.swift */,
 				75212FFE273D6E9100A5D2A6 /* Main.storyboard */,
-				75213001273D6E9300A5D2A6 /* Assets.xcassets */,
 				75213003273D6E9300A5D2A6 /* LaunchScreen.storyboard */,
+				75213001273D6E9300A5D2A6 /* Assets.xcassets */,
 				75213006273D6E9300A5D2A6 /* Info.plist */,
 			);
 			path = YouTube;
